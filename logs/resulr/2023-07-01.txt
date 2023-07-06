@@ -1,0 +1,9 @@
+
+
+---------------------06:25:05
+[["","shop_name","=","app-security-02.myshopify.com"]]were  result
+-*-*-*-*-*-*-*-*-*
+
+---------------------06:25:05
+{"status":"1","data":{"affected_rows":0,"query_status":1}}
+-*-*-*-*-*-*-*-*-*

@@ -1,0 +1,9 @@
+
+
+---------------------17:27:19
+{"code":"c939bf26ba93f18b77d17ddb71c02d6c","hmac":"31538b4bc084b33e2986e8674b8368b2bf959293823e9e28fc59b086035ee7db","host":"YWRtaW4uc2hvcGlmeS5jb20vc3RvcmUvZGl2eWVzaGNscw","shop":"divyeshcls.myshopify.com","timestamp":"1688146039"}GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:27:22
+Location: https://codelocksolutions.in/cls-rewriter/user/?store=divyeshcls.myshopify.com
+-*-*-*-*-*-*-*-*-*

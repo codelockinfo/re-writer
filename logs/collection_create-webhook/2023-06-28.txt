@@ -1,0 +1,37 @@
+
+
+---------------------04:46:38
+pHUukzEyEFFJUb4nCLpLzWJZ+pfvU7NE2ZUq/LFrUpU= hmac_header
+-*-*-*-*-*-*-*-*-*
+
+---------------------04:46:38
+pHUukzEyEFFJUb4nCLpLzWJZ+pfvU7NE2ZUq/LFrUpU=calculated_hmac
+-*-*-*-*-*-*-*-*-*
+
+---------------------04:46:38
+true
+-*-*-*-*-*-*-*-*-*
+
+---------------------04:46:38
+true  verified
+-*-*-*-*-*-*-*-*-*
+
+---------------------04:46:38
+{"id":295016661161,"handle":"shopreduct-webhook-testing-3","title":"shopreduct webhook testing","updated_at":"2023-06-28T10:16:37+05:30","body_html":"","published_at":"2023-06-28T10:16:37+05:30","sort_order":"best-selling","template_suffix":"","published_scope":"web","admin_graphql_api_id":"gid:\/\/shopify\/Collection\/295016661161"}
+-*-*-*-*-*-*-*-*-*
+
+---------------------04:46:38
+nullcollection DATA
+-*-*-*-*-*-*-*-*-*
+
+---------------------04:46:38
+nullDATA  collection ID
+-*-*-*-*-*-*-*-*-*
+
+---------------------04:46:38
+[{"`collection_id`":295016661161,"`title`":"shopreduct webhook testing","`image`":"","`description`":"","`handle`":"shopreduct-webhook-testing-3","`store_user_id`":null,"`created_at`":"2023-06-28 04:46:38","`updated_at`":"2023-06-28 04:46:38"}]
+-*-*-*-*-*-*-*-*-*
+
+---------------------04:46:38
+"{\"status\":\"1\",\"data\":1090}"
+-*-*-*-*-*-*-*-*-*

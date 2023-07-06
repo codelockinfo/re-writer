@@ -1,0 +1,9 @@
+
+
+---------------------07:30:40
+[["","shop_name","=","payalcls.myshopify.com"]]were  result
+-*-*-*-*-*-*-*-*-*
+
+---------------------07:30:40
+{"status":"1","data":{"affected_rows":0,"query_status":1}}
+-*-*-*-*-*-*-*-*-*

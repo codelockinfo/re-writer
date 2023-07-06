@@ -1,0 +1,193 @@
+
+
+---------------------13:43:28
+STEP 1 START
+-*-*-*-*-*-*-*-*-*
+
+---------------------13:43:28
+STEP 1
+-*-*-*-*-*-*-*-*-*
+
+---------------------13:43:28
+GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------13:43:42
+STEP 1 START
+-*-*-*-*-*-*-*-*-*
+
+---------------------13:43:42
+STEP 1
+-*-*-*-*-*-*-*-*-*
+
+---------------------13:43:42
+GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------13:43:42
+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GET status 0
+-*-*-*-*-*-*-*-*-*
+
+---------------------13:43:43
+"{\"shop\":{\"id\":61208559672,\"name\":\"tstore2ruzz\",\"email\":\"rosell.feliciano@shopify.com\",\"domain\":\"tstore2ruzz-2.myshopify.com\",\"province\":\"\",\"country\":\"PK\",\"address1\":\"Bahria Complex 1\",\"zip\":\"10601\",\"city\":\"Karachi\",\"source\":null,\"phone\":\"+639959827288\",\"latitude\":null,\"longitude\":null,\"primary_locale\":\"en\",\"address2\":\"\",\"created_at\":\"2023-01-18T16:52:21-05:00\",\"updated_at\":\"2023-06-26T08:46:23-04:00\",\"country_code\":\"PK\",\"country_name\":\"Pakistan\",\"currency\":\"RON\",\"customer_email\":\"rosell.feliciano@shopify.com\",\"timezone\":\"(GMT-05:00) America\\\/New_York\",\"iana_timezone\":\"America\\\/New_York\",\"shop_owner\":\"Rosell F\",\"money_format\":\"{{amount_with_comma_separator}} lei\",\"money_with_currency_format\":\"{{amount_with_comma_separator}} lei RON\",\"weight_unit\":\"kg\",\"province_code\":null,\"taxes_included\":false,\"auto_configure_tax_inclusivity\":null,\"tax_shipping\":null,\"county_taxes\":true,\"plan_display_name\":\"staff\",\"plan_name\":\"staff\",\"has_discounts\":true,\"has_gift_cards\":false,\"myshopify_domain\":\"tstore2ruzz-2.myshopify.com\",\"google_apps_domain\":null,\"google_apps_login_enabled\":null,\"money_in_emails_format\":\"{{amount_with_comma_separator}} lei\",\"money_with_currency_in_emails_format\":\"{{amount_with_comma_separator}} lei RON\",\"eligible_for_payments\":false,\"requires_extra_payments_agreement\":false,\"password_enabled\":false,\"has_storefront\":true,\"finances\":true,\"primary_location_id\":67828973624,\"cookie_consent_level\":\"implicit\",\"visitor_tracking_consent_preference\":\"allow_all\",\"checkout_api_supported\":true,\"multi_location_enabled\":true,\"setup_required\":false,\"pre_launch_enabled\":false,\"enabled_presentment_currencies\":[\"CAD\",\"PEN\",\"PHP\",\"RON\"]}}"shopuinfo
+-*-*-*-*-*-*-*-*-*
+
+---------------------13:43:45
+null
+-*-*-*-*-*-*-*-*-*
+
+---------------------13:43:48
+STEP 1 START
+-*-*-*-*-*-*-*-*-*
+
+---------------------13:43:48
+STEP 1
+-*-*-*-*-*-*-*-*-*
+
+---------------------13:43:48
+GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:24:20
+STEP 1 START
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:24:20
+STEP 1
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:24:20
+GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:24:30
+STEP 1 START
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:24:30
+STEP 1
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:24:30
+GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:24:30
+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GET status 0
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:24:31
+"{\"shop\":{\"id\":74637672746,\"name\":\"indiansaries\",\"email\":\"indiansarees07@gmail.com\",\"domain\":\"indian-sarees.in\",\"province\":\"Gujarat\",\"country\":\"IN\",\"address1\":\"Silver Business Point VIP Circle Uttran\",\"zip\":\"394105\",\"city\":\"Surat\",\"source\":null,\"phone\":\"9081270927\",\"latitude\":21.2335121,\"longitude\":72.8636064,\"primary_locale\":\"en\",\"address2\":\"Silver Business Point\",\"created_at\":\"2023-04-07T09:16:01-04:00\",\"updated_at\":\"2023-06-23T10:45:39-04:00\",\"country_code\":\"IN\",\"country_name\":\"India\",\"currency\":\"INR\",\"customer_email\":\"indiansarees07@gmail.com\",\"timezone\":\"(GMT-05:00) America\\\/New_York\",\"iana_timezone\":\"America\\\/New_York\",\"shop_owner\":\"indian sarees\",\"money_format\":\"Rs. {{amount}}\",\"money_with_currency_format\":\"Rs. {{amount}}\",\"weight_unit\":\"kg\",\"province_code\":\"GJ\",\"taxes_included\":false,\"auto_configure_tax_inclusivity\":null,\"tax_shipping\":null,\"county_taxes\":true,\"plan_display_name\":\"Basic Shopify\",\"plan_name\":\"basic\",\"has_discounts\":true,\"has_gift_cards\":false,\"myshopify_domain\":\"indiansaries.myshopify.com\",\"google_apps_domain\":null,\"google_apps_login_enabled\":null,\"money_in_emails_format\":\"Rs. {{amount}}\",\"money_with_currency_in_emails_format\":\"Rs. {{amount}}\",\"eligible_for_payments\":false,\"requires_extra_payments_agreement\":false,\"password_enabled\":false,\"has_storefront\":true,\"finances\":true,\"primary_location_id\":81539137834,\"cookie_consent_level\":\"implicit\",\"visitor_tracking_consent_preference\":\"allow_all\",\"checkout_api_supported\":false,\"multi_location_enabled\":true,\"setup_required\":false,\"pre_launch_enabled\":false,\"enabled_presentment_currencies\":[\"INR\"]}}"shopuinfo
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:24:33
+null
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:24:36
+STEP 1 START
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:24:36
+STEP 1
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:24:36
+GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:28:10
+STEP 1 START
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:28:10
+STEP 1
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:28:10
+GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:28:18
+STEP 1 START
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:28:18
+STEP 1
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:28:18
+GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:28:18
+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GET status 0
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:28:18
+"{\"shop\":{\"id\":74727260467,\"name\":\"marcomen\",\"email\":\"marcomen304@gmail.com\",\"domain\":\"marcomen.in\",\"province\":\"Gujarat\",\"country\":\"IN\",\"address1\":\"2081,IFM, Punagam, Varachha\",\"zip\":\"395010\",\"city\":\"Surat\",\"source\":null,\"phone\":\"70166\u00a046933\",\"latitude\":21.1995231,\"longitude\":72.868427,\"primary_locale\":\"en\",\"address2\":\"International Fashion Market\",\"created_at\":\"2023-04-03T09:44:10+05:30\",\"updated_at\":\"2023-06-16T09:17:56+05:30\",\"country_code\":\"IN\",\"country_name\":\"India\",\"currency\":\"INR\",\"customer_email\":\"marcomen304@gmail.com\",\"timezone\":\"(GMT+05:30) Asia\\\/Kolkata\",\"iana_timezone\":\"Asia\\\/Kolkata\",\"shop_owner\":\"Kalpesh Vaghani\",\"money_format\":\"Rs. {{amount}}\",\"money_with_currency_format\":\"Rs. {{amount}}\",\"weight_unit\":\"kg\",\"province_code\":\"GJ\",\"taxes_included\":false,\"auto_configure_tax_inclusivity\":null,\"tax_shipping\":null,\"county_taxes\":true,\"plan_display_name\":\"Basic Shopify\",\"plan_name\":\"basic\",\"has_discounts\":false,\"has_gift_cards\":false,\"myshopify_domain\":\"marcomen.myshopify.com\",\"google_apps_domain\":null,\"google_apps_login_enabled\":null,\"money_in_emails_format\":\"Rs. {{amount}}\",\"money_with_currency_in_emails_format\":\"Rs. {{amount}}\",\"eligible_for_payments\":false,\"requires_extra_payments_agreement\":false,\"password_enabled\":false,\"has_storefront\":true,\"finances\":true,\"primary_location_id\":81356423475,\"cookie_consent_level\":\"implicit\",\"visitor_tracking_consent_preference\":\"allow_all\",\"checkout_api_supported\":true,\"multi_location_enabled\":true,\"setup_required\":false,\"pre_launch_enabled\":false,\"enabled_presentment_currencies\":[\"INR\"]}}"shopuinfo
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:28:21
+null
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:28:24
+STEP 1 START
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:28:24
+STEP 1
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:28:24
+GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:31:37
+STEP 1 START
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:31:37
+STEP 1
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:31:37
+GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:31:44
+STEP 1 START
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:31:44
+STEP 1
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:31:44
+GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:31:45
+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GET status 0
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:31:45
+"{\"shop\":{\"id\":71301005621,\"name\":\"The Good Ritual\",\"email\":\"thegoodritual9007@gmail.com\",\"domain\":\"thegoodritual.in\",\"province\":\"Gujarat\",\"country\":\"IN\",\"address1\":\"907 Pinnacle Business Park, Prahladnagar\",\"zip\":\"380015\",\"city\":\"AHMEDABAD\",\"source\":null,\"phone\":\"8980019111\",\"latitude\":23.0071143,\"longitude\":72.505462,\"primary_locale\":\"en\",\"address2\":\"Corporate Road\",\"created_at\":\"2023-01-23T16:22:49+05:30\",\"updated_at\":\"2023-04-23T17:45:48+05:30\",\"country_code\":\"IN\",\"country_name\":\"India\",\"currency\":\"INR\",\"customer_email\":\"thegoodritual9007@gmail.com\",\"timezone\":\"(GMT+05:30) Asia\\\/Kolkata\",\"iana_timezone\":\"Asia\\\/Kolkata\",\"shop_owner\":\"Divya Sanghvi\",\"money_format\":\"Rs. {{amount}}\",\"money_with_currency_format\":\"Rs. {{amount}}\",\"weight_unit\":\"kg\",\"province_code\":\"GJ\",\"taxes_included\":true,\"auto_configure_tax_inclusivity\":false,\"tax_shipping\":false,\"county_taxes\":true,\"plan_display_name\":\"Basic Shopify\",\"plan_name\":\"basic\",\"has_discounts\":true,\"has_gift_cards\":true,\"myshopify_domain\":\"the-good-ritual-india.myshopify.com\",\"google_apps_domain\":null,\"google_apps_login_enabled\":null,\"money_in_emails_format\":\"Rs. {{amount}}\",\"money_with_currency_in_emails_format\":\"Rs. {{amount}}\",\"eligible_for_payments\":false,\"requires_extra_payments_agreement\":false,\"password_enabled\":false,\"has_storefront\":true,\"finances\":true,\"primary_location_id\":77465747765,\"cookie_consent_level\":\"implicit\",\"visitor_tracking_consent_preference\":\"allow_all\",\"checkout_api_supported\":false,\"multi_location_enabled\":true,\"setup_required\":false,\"pre_launch_enabled\":false,\"enabled_presentment_currencies\":[\"INR\"]}}"shopuinfo
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:31:47
+null
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:31:50
+STEP 1 START
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:31:50
+STEP 1
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:31:50
+GET SHOP
+-*-*-*-*-*-*-*-*-*

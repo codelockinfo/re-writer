@@ -1,0 +1,17 @@
+
+
+---------------------14:05:35
+[["","shop_name","=","app-security-02.myshopify.com"]]were  result
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:05:35
+{"status":"1","data":{"affected_rows":0,"query_status":1}}
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:30:35
+[["","shop_name","=","app-security-02.myshopify.com"]]were  result
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:30:35
+{"status":"1","data":{"affected_rows":0,"query_status":1}}
+-*-*-*-*-*-*-*-*-*

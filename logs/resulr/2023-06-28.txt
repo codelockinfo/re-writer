@@ -1,0 +1,41 @@
+
+
+---------------------06:30:37
+[["","shop_name","=","app-security-02.myshopify.com"]]were  result
+-*-*-*-*-*-*-*-*-*
+
+---------------------06:30:37
+{"status":"1","data":{"affected_rows":0,"query_status":1}}
+-*-*-*-*-*-*-*-*-*
+
+---------------------07:00:38
+[["","shop_name","=","app-security-02.myshopify.com"]]were  result
+-*-*-*-*-*-*-*-*-*
+
+---------------------07:00:38
+{"status":"1","data":{"affected_rows":0,"query_status":1}}
+-*-*-*-*-*-*-*-*-*
+
+---------------------10:09:03
+[["","shop_name","=","rewritertest.myshopify.com"]]were  result
+-*-*-*-*-*-*-*-*-*
+
+---------------------10:09:03
+{"status":"1","data":{"affected_rows":0,"query_status":1}}
+-*-*-*-*-*-*-*-*-*
+
+---------------------10:25:39
+[["","shop_name","=","app-security-02.myshopify.com"]]were  result
+-*-*-*-*-*-*-*-*-*
+
+---------------------10:25:39
+{"status":"1","data":{"affected_rows":0,"query_status":1}}
+-*-*-*-*-*-*-*-*-*
+
+---------------------11:15:33
+[["","shop_name","=","brinzacls.myshopify.com"]]were  result
+-*-*-*-*-*-*-*-*-*
+
+---------------------11:15:33
+{"status":"1","data":{"affected_rows":0,"query_status":1}}
+-*-*-*-*-*-*-*-*-*

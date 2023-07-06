@@ -1,0 +1,17 @@
+
+
+---------------------06:20:11
+{"LSPHP_ProcessGroup":"on","PATH":"\/usr\/local\/bin:\/bin:\/usr\/bin","HTTP_ACCEPT":"*\/*","HTTP_ACCEPT_ENCODING":"gzip;q=1.0,deflate;q=0.6,identity;q=0.3","HTTP_CONNECTION":"close","CONTENT_TYPE":"application\/json","CONTENT_LENGTH":"69","HTTP_HOST":"codelocksolutions.in","HTTP_USER_AGENT":"Ruby","HTTP_X_SHOPIFY_SHOP_DOMAIN":"app-security-02.myshopify.com","HTTP_X_SHOPIFY_API_VERSION":"2019-04","HTTP_X_SHOPIFY_TOPIC":"shop\/redact","HTTP_X_SHOPIFY_HMAC_SHA256":"g+z4klhDapK3zSJjLj9tL8iptRkwqLVPGWk2dhopmf4=","HTTP_X_CLOUD_TRACE_CONTEXT":"b26ca1ea51d14323686905ee5bcc9ee6\/3285402579235952839;o=1","HTTP_X_SHOPIFY_TRACE_CONTEXT":"b26ca1ea51d14323686905ee5bcc9ee6\/3285402579235952839;o=1","DOCUMENT_ROOT":"\/home\/u402017191\/domains\/codelocksolutions.in\/public_html","REMOTE_ADDR":"35.237.242.156","REMOTE_PORT":"44918","SERVER_ADDR":"194.195.84.32","SERVER_NAME":"codelocksolutions.in","SERVER_ADMIN":"","SERVER_PORT":"443","REQUEST_SCHEME":"https","REQUEST_URI":"\/cls-rewriter\/webhook\/shop-redact.php","HTTPS":"on","CRAWLER_USLEEP":"1000","CRAWLER_LOAD_LIMIT_ENFORCE":"25","SSL_PROTOCOL":"TLSv1.3","SSL_CIPHER":"TLS_AES_256_GCM_SHA384","SSL_CIPHER_USEKEYSIZE":"256","SSL_CIPHER_ALGKEYSIZE":"256","SCRIPT_FILENAME":"\/home\/u402017191\/domains\/codelocksolutions.in\/public_html\/cls-rewriter\/webhook\/shop-redact.php","QUERY_STRING":"","SCRIPT_URI":"https:\/\/codelocksolutions.in\/cls-rewriter\/webhook\/shop-redact.php","SCRIPT_URL":"\/cls-rewriter\/webhook\/shop-redact.php","SCRIPT_NAME":"\/cls-rewriter\/webhook\/shop-redact.php","SERVER_PROTOCOL":"HTTP\/1.1","SERVER_SOFTWARE":"LiteSpeed","REQUEST_METHOD":"POST","X-LSCACHE":"on,crawler,esi,combine","PHP_SELF":"\/cls-rewriter\/webhook\/shop-redact.php","REQUEST_TIME_FLOAT":1688192411.496292,"REQUEST_TIME":1688192411}
+-*-*-*-*-*-*-*-*-*
+
+---------------------06:20:11
+r43mGvMbOHgC82gGIOwJo34sborLZWx8JnVgd/D7KNs=calculated_hmac
+-*-*-*-*-*-*-*-*-*
+
+---------------------06:20:11
+g+z4klhDapK3zSJjLj9tL8iptRkwqLVPGWk2dhopmf4= hmac_header
+-*-*-*-*-*-*-*-*-*
+
+---------------------06:20:11
+in else
+-*-*-*-*-*-*-*-*-*

@@ -1,0 +1,49 @@
+
+
+---------------------03:25:08
+{"LSPHP_ProcessGroup":"on","PATH":"\/usr\/local\/bin:\/bin:\/usr\/bin","HTTP_ACCEPT":"*\/*","HTTP_ACCEPT_ENCODING":"gzip;q=1.0,deflate;q=0.6,identity;q=0.3","CONTENT_TYPE":"application\/json","CONTENT_LENGTH":"64","HTTP_HOST":"codelocksolutions.in","HTTP_USER_AGENT":"Faraday v2.7.8","HTTP_X_SHOPIFY_TOPIC":"shop\/redact","HTTP_X_SHOPIFY_SHOP_DOMAIN":"appstoretest5.myshopify.com","HTTP_X_SHOPIFY_HMAC_SHA256":"jlQfcAoQXXCLl1LelbXvoMUroBIgB13uczISvBJB51A=","HTTP_X_SHOPIFY_WEBHOOK_ID":"04d32876-1b07-49b5-96a8-4b6c225263e9","HTTP_X_SHOPIFY_API_VERSION":"2022-07","HTTP_X_CLOUD_TRACE_CONTEXT":"cb11d177a7f494451ba82deac1cde9ea\/2982532937085481274;o=1","HTTP_X_SHOPIFY_TRACE_CONTEXT":"cb11d177a7f494451ba82deac1cde9ea\/2982532937085481274;o=1","HTTP_TRACESTATE":"ot=p:0;r:3","DOCUMENT_ROOT":"\/home\/u402017191\/domains\/codelocksolutions.in\/public_html","REMOTE_ADDR":"34.138.121.108","REMOTE_PORT":"34166","SERVER_ADDR":"194.195.84.32","SERVER_NAME":"codelocksolutions.in","SERVER_ADMIN":"","SERVER_PORT":"443","REQUEST_SCHEME":"https","REQUEST_URI":"\/cls-rewriter\/webhook\/shop-redact.php","HTTPS":"on","CRAWLER_USLEEP":"1000","CRAWLER_LOAD_LIMIT_ENFORCE":"25","SSL_PROTOCOL":"TLSv1.3","SSL_CIPHER":"TLS_AES_256_GCM_SHA384","SSL_CIPHER_USEKEYSIZE":"256","SSL_CIPHER_ALGKEYSIZE":"256","SCRIPT_FILENAME":"\/home\/u402017191\/domains\/codelocksolutions.in\/public_html\/cls-rewriter\/webhook\/shop-redact.php","QUERY_STRING":"","SCRIPT_URI":"https:\/\/codelocksolutions.in\/cls-rewriter\/webhook\/shop-redact.php","SCRIPT_URL":"\/cls-rewriter\/webhook\/shop-redact.php","SCRIPT_NAME":"\/cls-rewriter\/webhook\/shop-redact.php","SERVER_PROTOCOL":"HTTP\/1.1","SERVER_SOFTWARE":"LiteSpeed","REQUEST_METHOD":"POST","X-LSCACHE":"on,crawler,esi,combine","PHP_SELF":"\/cls-rewriter\/webhook\/shop-redact.php","REQUEST_TIME_FLOAT":1688613908.763885,"REQUEST_TIME":1688613908}
+-*-*-*-*-*-*-*-*-*
+
+---------------------03:25:08
+jlQfcAoQXXCLl1LelbXvoMUroBIgB13uczISvBJB51A=calculated_hmac
+-*-*-*-*-*-*-*-*-*
+
+---------------------03:25:08
+jlQfcAoQXXCLl1LelbXvoMUroBIgB13uczISvBJB51A= hmac_header
+-*-*-*-*-*-*-*-*-*
+
+---------------------03:25:08
+in if
+-*-*-*-*-*-*-*-*-*
+
+---------------------03:25:08
+[]
+-*-*-*-*-*-*-*-*-*
+
+---------------------03:25:08
+ STORE_CLIENT_ID
+-*-*-*-*-*-*-*-*-*
+
+---------------------07:25:09
+{"LSPHP_ProcessGroup":"on","PATH":"\/usr\/local\/bin:\/bin:\/usr\/bin","HTTP_ACCEPT":"*\/*","HTTP_ACCEPT_ENCODING":"gzip;q=1.0,deflate;q=0.6,identity;q=0.3","CONTENT_TYPE":"application\/json","CONTENT_LENGTH":"64","HTTP_HOST":"codelocksolutions.in","HTTP_USER_AGENT":"Faraday v2.7.8","HTTP_X_SHOPIFY_TOPIC":"shop\/redact","HTTP_X_SHOPIFY_SHOP_DOMAIN":"appstoretest5.myshopify.com","HTTP_X_SHOPIFY_HMAC_SHA256":"jlQfcAoQXXCLl1LelbXvoMUroBIgB13uczISvBJB51A=","HTTP_X_SHOPIFY_WEBHOOK_ID":"a1af286a-abb5-4d56-bc26-953a803c2908","HTTP_X_SHOPIFY_API_VERSION":"2022-07","HTTP_X_CLOUD_TRACE_CONTEXT":"fe2addc9964e8d02bc1aed0caff40604\/7687812427439884403;o=1","HTTP_X_SHOPIFY_TRACE_CONTEXT":"fe2addc9964e8d02bc1aed0caff40604\/7687812427439884403;o=1","HTTP_TRACESTATE":"ot=p:0;r:0","DOCUMENT_ROOT":"\/home\/u402017191\/domains\/codelocksolutions.in\/public_html","REMOTE_ADDR":"34.23.88.173","REMOTE_PORT":"53472","SERVER_ADDR":"194.195.84.32","SERVER_NAME":"codelocksolutions.in","SERVER_ADMIN":"","SERVER_PORT":"443","REQUEST_SCHEME":"https","REQUEST_URI":"\/cls-rewriter\/webhook\/shop-redact.php","HTTPS":"on","CRAWLER_USLEEP":"1000","CRAWLER_LOAD_LIMIT_ENFORCE":"25","SSL_PROTOCOL":"TLSv1.3","SSL_CIPHER":"TLS_AES_256_GCM_SHA384","SSL_CIPHER_USEKEYSIZE":"256","SSL_CIPHER_ALGKEYSIZE":"256","SCRIPT_FILENAME":"\/home\/u402017191\/domains\/codelocksolutions.in\/public_html\/cls-rewriter\/webhook\/shop-redact.php","QUERY_STRING":"","SCRIPT_URI":"https:\/\/codelocksolutions.in\/cls-rewriter\/webhook\/shop-redact.php","SCRIPT_URL":"\/cls-rewriter\/webhook\/shop-redact.php","SCRIPT_NAME":"\/cls-rewriter\/webhook\/shop-redact.php","SERVER_PROTOCOL":"HTTP\/1.1","SERVER_SOFTWARE":"LiteSpeed","REQUEST_METHOD":"POST","X-LSCACHE":"on,crawler,esi,combine","PHP_SELF":"\/cls-rewriter\/webhook\/shop-redact.php","REQUEST_TIME_FLOAT":1688628309.252368,"REQUEST_TIME":1688628309}
+-*-*-*-*-*-*-*-*-*
+
+---------------------07:25:09
+jlQfcAoQXXCLl1LelbXvoMUroBIgB13uczISvBJB51A=calculated_hmac
+-*-*-*-*-*-*-*-*-*
+
+---------------------07:25:09
+jlQfcAoQXXCLl1LelbXvoMUroBIgB13uczISvBJB51A= hmac_header
+-*-*-*-*-*-*-*-*-*
+
+---------------------07:25:09
+in if
+-*-*-*-*-*-*-*-*-*
+
+---------------------07:25:09
+[]
+-*-*-*-*-*-*-*-*-*
+
+---------------------07:25:09
+ STORE_CLIENT_ID
+-*-*-*-*-*-*-*-*-*

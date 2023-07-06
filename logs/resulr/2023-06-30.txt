@@ -1,0 +1,9 @@
+
+
+---------------------17:28:00
+[["","shop_name","=","divyeshcls.myshopify.com"]]were  result
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:28:00
+{"status":"1","data":{"affected_rows":0,"query_status":1}}
+-*-*-*-*-*-*-*-*-*

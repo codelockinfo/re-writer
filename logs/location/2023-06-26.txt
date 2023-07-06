@@ -1,0 +1,25 @@
+
+
+---------------------04:57:04
+{"code":"72558caff6eb192712b8ea53b693fac0","hmac":"e0b54276c86d0d9ad459739c3edf9cf42833b8c4f953e11832bcdc4914a2922e","host":"YWRtaW4uc2hvcGlmeS5jb20vc3RvcmUvZGFzaGJvYXJkbWFuYWdl","shop":"dashboardmanage.myshopify.com","timestamp":"1687755423"}GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------04:57:07
+Location: https://codelocksolutions.in/cls-rewriter/user/?store=dashboardmanage.myshopify.com
+-*-*-*-*-*-*-*-*-*
+
+---------------------04:58:36
+{"code":"f0ed96e18f9c754ed72d42cb2f49fda4","hmac":"7a59c9de1b9d08518e4629e108de50c2baa0aed07361b5de25f37c073155f81d","host":"YWRtaW4uc2hvcGlmeS5jb20vc3RvcmUvY2xzLXJld3JpdGVy","shop":"cls-rewriter.myshopify.com","timestamp":"1687755515"}GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------04:58:38
+Location: https://codelocksolutions.in/cls-rewriter/user/?store=cls-rewriter.myshopify.com
+-*-*-*-*-*-*-*-*-*
+
+---------------------04:59:38
+{"code":"daf77c9dc4aa788cb2346a8e5730226e","hmac":"92dd675e0eb5ed2a882cce9f7b64cfcd138667a0b3184a43e133af96b8d4cdcd","host":"YWRtaW4uc2hvcGlmeS5jb20vc3RvcmUvcmV3cml0ZXJ0ZXN0","shop":"rewritertest.myshopify.com","timestamp":"1687755578"}GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------04:59:41
+Location: https://codelocksolutions.in/cls-rewriter/user/?store=rewritertest.myshopify.com
+-*-*-*-*-*-*-*-*-*

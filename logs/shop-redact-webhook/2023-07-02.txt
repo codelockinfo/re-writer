@@ -1,0 +1,25 @@
+
+
+---------------------18:25:03
+{"LSPHP_ProcessGroup":"on","PATH":"\/usr\/local\/bin:\/bin:\/usr\/bin","HTTP_ACCEPT":"*\/*","HTTP_ACCEPT_ENCODING":"gzip;q=1.0,deflate;q=0.6,identity;q=0.3","CONTENT_TYPE":"application\/json","CONTENT_LENGTH":"64","HTTP_HOST":"codelocksolutions.in","HTTP_USER_AGENT":"Faraday v2.7.8","HTTP_X_SHOPIFY_TOPIC":"shop\/redact","HTTP_X_SHOPIFY_SHOP_DOMAIN":"divyeshcls.myshopify.com","HTTP_X_SHOPIFY_HMAC_SHA256":"4ZCfmT68vBp3U+yoTL9BYp+RUGuPTuSvUvQwKHVWKaQ=","HTTP_X_SHOPIFY_WEBHOOK_ID":"1959d0b0-7dd7-4912-ac04-07bfade7d8f5","HTTP_X_SHOPIFY_API_VERSION":"2022-01","HTTP_X_CLOUD_TRACE_CONTEXT":"38511a574cfb14e52b48d1247c715f79\/11086825329128749763;o=1","HTTP_X_SHOPIFY_TRACE_CONTEXT":"38511a574cfb14e52b48d1247c715f79\/11086825329128749763;o=1","HTTP_TRACESTATE":"ot=p:0;r:2","DOCUMENT_ROOT":"\/home\/u402017191\/domains\/codelocksolutions.in\/public_html","REMOTE_ADDR":"35.237.249.52","REMOTE_PORT":"54144","SERVER_ADDR":"194.195.84.32","SERVER_NAME":"codelocksolutions.in","SERVER_ADMIN":"","SERVER_PORT":"443","REQUEST_SCHEME":"https","REQUEST_URI":"\/cls-rewriter\/webhook\/shop-redact.php","HTTPS":"on","CRAWLER_USLEEP":"1000","CRAWLER_LOAD_LIMIT_ENFORCE":"25","SSL_PROTOCOL":"TLSv1.3","SSL_CIPHER":"TLS_AES_256_GCM_SHA384","SSL_CIPHER_USEKEYSIZE":"256","SSL_CIPHER_ALGKEYSIZE":"256","SCRIPT_FILENAME":"\/home\/u402017191\/domains\/codelocksolutions.in\/public_html\/cls-rewriter\/webhook\/shop-redact.php","QUERY_STRING":"","SCRIPT_URI":"https:\/\/codelocksolutions.in\/cls-rewriter\/webhook\/shop-redact.php","SCRIPT_URL":"\/cls-rewriter\/webhook\/shop-redact.php","SCRIPT_NAME":"\/cls-rewriter\/webhook\/shop-redact.php","SERVER_PROTOCOL":"HTTP\/1.1","SERVER_SOFTWARE":"LiteSpeed","REQUEST_METHOD":"POST","X-LSCACHE":"on,crawler,esi,combine","PHP_SELF":"\/cls-rewriter\/webhook\/shop-redact.php","REQUEST_TIME_FLOAT":1688322303.109655,"REQUEST_TIME":1688322303}
+-*-*-*-*-*-*-*-*-*
+
+---------------------18:25:03
+4ZCfmT68vBp3U+yoTL9BYp+RUGuPTuSvUvQwKHVWKaQ=calculated_hmac
+-*-*-*-*-*-*-*-*-*
+
+---------------------18:25:03
+4ZCfmT68vBp3U+yoTL9BYp+RUGuPTuSvUvQwKHVWKaQ= hmac_header
+-*-*-*-*-*-*-*-*-*
+
+---------------------18:25:03
+in if
+-*-*-*-*-*-*-*-*-*
+
+---------------------18:25:03
+{"store_user_id":"33","email":"","status":"0","application_status":"0","application_language":"en","shop_name":"divyeshcls.myshopify.com","password":"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","is_demand_accept":"0","charge":"0","price_id":null,"invoice_on":null,"operated_on":null,"test_finals_on":null,"removed_on":null,"store_name":"divyeshcls.myshopify.com","api_key":"","store_idea":"","price_pattern":"","cash":"","store_holder":"","address11":"","address22":"","city":"","country_name":"","mobile_no":"","division":"","zip":"","timezone":"","america_timezone":"","domain":"","feedback_status":"0","block_status":"0","created_at":"2023-06-30 17:27:19","updated_at":"2023-06-30 17:27:19","uninstall_on":null,"install_date":null}
+-*-*-*-*-*-*-*-*-*
+
+---------------------18:25:03
+"{\"status\":\"1\",\"data\":{\"affected_rows\":0,\"query_status\":1}}"
+-*-*-*-*-*-*-*-*-*

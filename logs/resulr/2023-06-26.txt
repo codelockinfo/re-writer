@@ -1,0 +1,33 @@
+
+
+---------------------05:20:30
+[["","shop_name","=","rewritertest.myshopify.com"]]were  result
+-*-*-*-*-*-*-*-*-*
+
+---------------------05:20:30
+{"status":"1","data":{"affected_rows":0,"query_status":1}}
+-*-*-*-*-*-*-*-*-*
+
+---------------------05:20:43
+[["","shop_name","=","cls-rewriter.myshopify.com"]]were  result
+-*-*-*-*-*-*-*-*-*
+
+---------------------05:20:43
+{"status":"1","data":{"affected_rows":0,"query_status":1}}
+-*-*-*-*-*-*-*-*-*
+
+---------------------05:21:06
+[["","shop_name","=","dashboardmanage.myshopify.com"]]were  result
+-*-*-*-*-*-*-*-*-*
+
+---------------------05:21:06
+{"status":"1","data":{"affected_rows":0,"query_status":1}}
+-*-*-*-*-*-*-*-*-*
+
+---------------------12:39:52
+[["","shop_name","=","tstore1ruzz.myshopify.com"]]were  result
+-*-*-*-*-*-*-*-*-*
+
+---------------------12:39:52
+{"status":"1","data":{"affected_rows":0,"query_status":1}}
+-*-*-*-*-*-*-*-*-*

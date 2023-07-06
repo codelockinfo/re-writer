@@ -1,0 +1,65 @@
+
+
+---------------------07:10:03
+["app\/uninstalled","products\/create","products\/delete","products\/update","collections\/create","collections\/update","collections\/delete"]
+-*-*-*-*-*-*-*-*-*
+
+---------------------07:10:03
+"{\"webhook\":{\"id\":1338313081134,\"address\":\"https:\\\/\\\/codelocksolutions.in\\\/cls-rewriter\\\/webhook\\\/app-uninstalled.php\",\"topic\":\"app\\\/uninstalled\",\"created_at\":\"2023-07-03T12:40:03+05:30\",\"updated_at\":\"2023-07-03T12:40:03+05:30\",\"format\":\"json\",\"fields\":[],\"metafield_namespaces\":[],\"api_version\":\"2021-10\",\"private_metafield_namespaces\":[]}}"
+-*-*-*-*-*-*-*-*-*
+
+---------------------07:10:04
+"{\"webhook\":{\"id\":1338313113902,\"address\":\"https:\\\/\\\/codelocksolutions.in\\\/cls-rewriter\\\/webhook\\\/products-create.php\",\"topic\":\"products\\\/create\",\"created_at\":\"2023-07-03T12:40:04+05:30\",\"updated_at\":\"2023-07-03T12:40:04+05:30\",\"format\":\"json\",\"fields\":[],\"metafield_namespaces\":[],\"api_version\":\"2021-10\",\"private_metafield_namespaces\":[]}}"
+-*-*-*-*-*-*-*-*-*
+
+---------------------07:10:04
+"{\"webhook\":{\"id\":1338313146670,\"address\":\"https:\\\/\\\/codelocksolutions.in\\\/cls-rewriter\\\/webhook\\\/products-delete.php\",\"topic\":\"products\\\/delete\",\"created_at\":\"2023-07-03T12:40:04+05:30\",\"updated_at\":\"2023-07-03T12:40:04+05:30\",\"format\":\"json\",\"fields\":[],\"metafield_namespaces\":[],\"api_version\":\"2021-10\",\"private_metafield_namespaces\":[]}}"
+-*-*-*-*-*-*-*-*-*
+
+---------------------07:10:04
+"{\"webhook\":{\"id\":1338313179438,\"address\":\"https:\\\/\\\/codelocksolutions.in\\\/cls-rewriter\\\/webhook\\\/products-update.php\",\"topic\":\"products\\\/update\",\"created_at\":\"2023-07-03T12:40:04+05:30\",\"updated_at\":\"2023-07-03T12:40:04+05:30\",\"format\":\"json\",\"fields\":[],\"metafield_namespaces\":[],\"api_version\":\"2021-10\",\"private_metafield_namespaces\":[]}}"
+-*-*-*-*-*-*-*-*-*
+
+---------------------07:10:05
+"{\"webhook\":{\"id\":1338313212206,\"address\":\"https:\\\/\\\/codelocksolutions.in\\\/cls-rewriter\\\/webhook\\\/collections-create.php\",\"topic\":\"collections\\\/create\",\"created_at\":\"2023-07-03T12:40:05+05:30\",\"updated_at\":\"2023-07-03T12:40:05+05:30\",\"format\":\"json\",\"fields\":[],\"metafield_namespaces\":[],\"api_version\":\"2021-10\",\"private_metafield_namespaces\":[]}}"
+-*-*-*-*-*-*-*-*-*
+
+---------------------07:10:05
+"{\"webhook\":{\"id\":1338313244974,\"address\":\"https:\\\/\\\/codelocksolutions.in\\\/cls-rewriter\\\/webhook\\\/collections-update.php\",\"topic\":\"collections\\\/update\",\"created_at\":\"2023-07-03T12:40:05+05:30\",\"updated_at\":\"2023-07-03T12:40:05+05:30\",\"format\":\"json\",\"fields\":[],\"metafield_namespaces\":[],\"api_version\":\"2021-10\",\"private_metafield_namespaces\":[]}}"
+-*-*-*-*-*-*-*-*-*
+
+---------------------07:10:05
+"{\"webhook\":{\"id\":1338313277742,\"address\":\"https:\\\/\\\/codelocksolutions.in\\\/cls-rewriter\\\/webhook\\\/collections-delete.php\",\"topic\":\"collections\\\/delete\",\"created_at\":\"2023-07-03T12:40:05+05:30\",\"updated_at\":\"2023-07-03T12:40:05+05:30\",\"format\":\"json\",\"fields\":[],\"metafield_namespaces\":[],\"api_version\":\"2021-10\",\"private_metafield_namespaces\":[]}}"
+-*-*-*-*-*-*-*-*-*
+
+---------------------07:30:20
+["app\/uninstalled","products\/create","products\/delete","products\/update","collections\/create","collections\/update","collections\/delete"]
+-*-*-*-*-*-*-*-*-*
+
+---------------------07:30:20
+"{\"errors\":{\"address\":[\"for this topic has already been taken\"]}}"
+-*-*-*-*-*-*-*-*-*
+
+---------------------07:30:20
+"{\"errors\":{\"address\":[\"for this topic has already been taken\"]}}"
+-*-*-*-*-*-*-*-*-*
+
+---------------------07:30:20
+"{\"errors\":{\"address\":[\"for this topic has already been taken\"]}}"
+-*-*-*-*-*-*-*-*-*
+
+---------------------07:30:21
+"{\"errors\":{\"address\":[\"for this topic has already been taken\"]}}"
+-*-*-*-*-*-*-*-*-*
+
+---------------------07:30:21
+"{\"errors\":{\"address\":[\"for this topic has already been taken\"]}}"
+-*-*-*-*-*-*-*-*-*
+
+---------------------07:30:21
+"{\"errors\":{\"address\":[\"for this topic has already been taken\"]}}"
+-*-*-*-*-*-*-*-*-*
+
+---------------------07:30:22
+"{\"errors\":{\"address\":[\"for this topic has already been taken\"]}}"
+-*-*-*-*-*-*-*-*-*

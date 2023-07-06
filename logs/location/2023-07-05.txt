@@ -1,0 +1,33 @@
+
+
+---------------------13:43:42
+{"code":"b6be8dab7512a6286e26a75b65638dc1","hmac":"6642fa81715e16c86399585ef6ade3cefa2eaa436bcb6956fe10c5cfd61fcef6","host":"YWRtaW4uc2hvcGlmeS5jb20vc3RvcmUvdHN0b3JlMnJ1enotMg","shop":"tstore2ruzz-2.myshopify.com","timestamp":"1688564621"}GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------13:43:45
+Location: https://codelocksolutions.in/cls-rewriter/user/?store=tstore2ruzz-2.myshopify.com
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:24:30
+{"code":"b09d83a2590fb4b740a09b32669161bc","hmac":"f5b7d754c77ab14906390734c18759865e9d05cd783b7fd117d463e28f1e6eda","host":"YWRtaW4uc2hvcGlmeS5jb20vc3RvcmUvaW5kaWFuc2FyaWVz","shop":"indiansaries.myshopify.com","timestamp":"1688567070"}GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:24:33
+Location: https://codelocksolutions.in/cls-rewriter/user/?store=indiansaries.myshopify.com
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:28:18
+{"code":"f55cc602cc060519b82ce2e33858c73f","hmac":"9f09ca929d04e8ee98d4376f9c5e66e88f585c2d31620302f3d1c9a43ff6235a","host":"bWFyY29tZW4ubXlzaG9waWZ5LmNvbS9hZG1pbg","shop":"marcomen.myshopify.com","timestamp":"1688567297"}GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:28:21
+Location: https://codelocksolutions.in/cls-rewriter/user/?store=marcomen.myshopify.com
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:31:44
+{"code":"5da419fd1137ee237d171294ec6da7eb","hmac":"8e4ba00ca0b68960027d46e1a5996793cd17e6340ce19fef1d87708e5d591227","host":"dGhlLWdvb2Qtcml0dWFsLWluZGlhLm15c2hvcGlmeS5jb20vYWRtaW4","shop":"the-good-ritual-india.myshopify.com","timestamp":"1688567504"}GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:31:47
+Location: https://codelocksolutions.in/cls-rewriter/user/?store=the-good-ritual-india.myshopify.com
+-*-*-*-*-*-*-*-*-*

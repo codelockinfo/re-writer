@@ -1,0 +1,85 @@
+
+
+---------------------03:32:34
+"Content-Security-Policy, https:dashboardmanage.myshopify.com"
+-*-*-*-*-*-*-*-*-*
+
+---------------------13:54:39
+"Content-Security-Policy, https:appstoretest8.myshopify.com"
+-*-*-*-*-*-*-*-*-*
+
+---------------------13:54:40
+"Content-Security-Policy, https:appstoretest8.myshopify.com"
+-*-*-*-*-*-*-*-*-*
+
+---------------------13:54:40
+"Content-Security-Policy, https:appstoretest8.myshopify.com"
+-*-*-*-*-*-*-*-*-*
+
+---------------------13:54:40
+"Content-Security-Policy, https:appstoretest8.myshopify.com"
+-*-*-*-*-*-*-*-*-*
+
+---------------------13:54:40
+"Content-Security-Policy, https:appstoretest8.myshopify.com"
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:17:43
+"Content-Security-Policy, https:appstoretest8.myshopify.com"
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:17:43
+"Content-Security-Policy, https:appstoretest8.myshopify.com"
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:17:44
+"Content-Security-Policy, https:appstoretest8.myshopify.com"
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:17:44
+"Content-Security-Policy, https:appstoretest8.myshopify.com"
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:17:44
+"Content-Security-Policy, https:appstoretest8.myshopify.com"
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:17:44
+"Content-Security-Policy, https:appstoretest8.myshopify.com"
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:17:44
+"Content-Security-Policy, https:appstoretest8.myshopify.com"
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:17:44
+"Content-Security-Policy, https:appstoretest8.myshopify.com"
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:17:44
+"Content-Security-Policy, https:appstoretest8.myshopify.com"
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:17:45
+"Content-Security-Policy, https:appstoretest8.myshopify.com"
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:20:48
+"Content-Security-Policy, https:app-security-02.myshopify.com"
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:20:48
+"Content-Security-Policy, https:app-security-02.myshopify.com"
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:20:48
+"Content-Security-Policy, https:app-security-02.myshopify.com"
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:20:49
+"Content-Security-Policy, https:app-security-02.myshopify.com"
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:20:49
+"Content-Security-Policy, https:app-security-02.myshopify.com"
+-*-*-*-*-*-*-*-*-*

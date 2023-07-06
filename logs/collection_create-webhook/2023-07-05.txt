@@ -1,0 +1,37 @@
+
+
+---------------------14:00:33
+jN1ZK5JEPt94i3pjcWfrf43F9oZzZskCZG1V+gfRYug= hmac_header
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:33
+jN1ZK5JEPt94i3pjcWfrf43F9oZzZskCZG1V+gfRYug=calculated_hmac
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:33
+true
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:33
+true  verified
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:33
+{"id":390640304184,"handle":"test-collection-naruto","title":"test collection naruto","updated_at":"2023-07-05T10:00:31-04:00","body_html":"<body>\r\n\r\n\r\n\r\n\r\n<p>test<\/p>\r\n\r\n<\/body>","published_at":"2023-07-05T10:00:31-04:00","sort_order":"best-selling","template_suffix":null,"published_scope":"web","admin_graphql_api_id":"gid:\/\/shopify\/Collection\/390640304184","image":{"created_at":"2023-07-05T10:00:31-04:00","alt":null,"width":490,"height":482,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0612\/0855\/9672\/collections\/7209e42d6c211a4a1dbec5e1e0fa0c8c.png?v=1688565631"}}
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:33
+nullcollection DATA
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:33
+nullDATA  collection ID
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:33
+[{"`collection_id`":390640304184,"`title`":"test collection naruto","`image`":"https:\/\/cdn.shopify.com\/s\/files\/1\/0612\/0855\/9672\/collections\/7209e42d6c211a4a1dbec5e1e0fa0c8c.png?v=1688565631","`description`":"<body>\r\n\r\n\r\n\r\n\r\n<p>test<\/p>\r\n\r\n<\/body>","`handle`":"test-collection-naruto","`store_user_id`":null,"`created_at`":"2023-07-05 14:00:33","`updated_at`":"2023-07-05 14:00:33"}]
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:33
+"{\"status\":\"1\",\"data\":1182}"
+-*-*-*-*-*-*-*-*-*

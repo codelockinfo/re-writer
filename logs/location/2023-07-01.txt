@@ -1,0 +1,9 @@
+
+
+---------------------06:15:15
+{"code":"5922d653069d2bab6bf39763961b10c8","hmac":"b54a53b1490e72710df46f517595a632fe60a38c8c40992ae8c2846f63eb76ce","host":"YXBwLXNlY3VyaXR5LTAyLm15c2hvcGlmeS5jb20vYWRtaW4","shop":"app-security-02.myshopify.com","timestamp":"1688192115"}GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------06:15:18
+Location: https://codelocksolutions.in/cls-rewriter/user/?store=app-security-02.myshopify.com
+-*-*-*-*-*-*-*-*-*

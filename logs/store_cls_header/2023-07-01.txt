@@ -1,0 +1,13 @@
+
+
+---------------------04:04:15
+{"store":"dashboardmanage.myshopify.com"}
+-*-*-*-*-*-*-*-*-*
+
+---------------------06:14:27
+{"store":"appstoretest8.myshopify.com"}
+-*-*-*-*-*-*-*-*-*
+
+---------------------06:15:19
+{"store":"app-security-02.myshopify.com"}
+-*-*-*-*-*-*-*-*-*

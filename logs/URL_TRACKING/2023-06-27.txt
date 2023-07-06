@@ -1,0 +1,385 @@
+
+
+---------------------13:54:38
+STEP 1 START
+-*-*-*-*-*-*-*-*-*
+
+---------------------13:54:38
+STEP 1
+-*-*-*-*-*-*-*-*-*
+
+---------------------13:54:38
+GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------13:54:40
+STEP 1 START
+-*-*-*-*-*-*-*-*-*
+
+---------------------13:54:40
+STEP 1
+-*-*-*-*-*-*-*-*-*
+
+---------------------13:54:40
+GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------13:55:38
+STEP 1 START
+-*-*-*-*-*-*-*-*-*
+
+---------------------13:55:38
+STEP 1
+-*-*-*-*-*-*-*-*-*
+
+---------------------13:55:38
+GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------13:55:44
+STEP 1 START
+-*-*-*-*-*-*-*-*-*
+
+---------------------13:55:44
+STEP 1
+-*-*-*-*-*-*-*-*-*
+
+---------------------13:55:44
+GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------13:55:44
+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GET status 0
+-*-*-*-*-*-*-*-*-*
+
+---------------------13:55:44
+"{\"shop\":{\"id\":69161943062,\"name\":\"app-security-02\",\"email\":\"ecosystem-security+pod21@shopify.com\",\"domain\":\"app-security-02.myshopify.com\",\"province\":null,\"country\":\"US\",\"address1\":null,\"zip\":null,\"city\":null,\"source\":null,\"phone\":null,\"latitude\":null,\"longitude\":null,\"primary_locale\":\"en\",\"address2\":null,\"created_at\":\"2023-05-31T10:09:56-04:00\",\"updated_at\":\"2023-06-27T08:06:54-04:00\",\"country_code\":\"US\",\"country_name\":\"United States\",\"currency\":\"USD\",\"customer_email\":\"ecosystem-security+pod21@shopify.com\",\"timezone\":\"(GMT-05:00) America\\\/Montreal\",\"iana_timezone\":\"America\\\/Montreal\",\"shop_owner\":\"Ecosystem Security\",\"money_format\":\"${{amount}}\",\"money_with_currency_format\":\"${{amount}} USD\",\"weight_unit\":\"lb\",\"province_code\":null,\"taxes_included\":false,\"auto_configure_tax_inclusivity\":null,\"tax_shipping\":null,\"county_taxes\":true,\"plan_display_name\":\"staff\",\"plan_name\":\"staff\",\"has_discounts\":true,\"has_gift_cards\":false,\"myshopify_domain\":\"app-security-02.myshopify.com\",\"google_apps_domain\":null,\"google_apps_login_enabled\":null,\"money_in_emails_format\":\"${{amount}}\",\"money_with_currency_in_emails_format\":\"${{amount}} USD\",\"eligible_for_payments\":true,\"requires_extra_payments_agreement\":false,\"password_enabled\":true,\"has_storefront\":true,\"finances\":true,\"primary_location_id\":74932092950,\"cookie_consent_level\":\"implicit\",\"visitor_tracking_consent_preference\":\"allow_all\",\"checkout_api_supported\":false,\"multi_location_enabled\":true,\"setup_required\":false,\"pre_launch_enabled\":false,\"enabled_presentment_currencies\":[\"USD\"]}}"shopuinfo
+-*-*-*-*-*-*-*-*-*
+
+---------------------13:55:46
+null
+-*-*-*-*-*-*-*-*-*
+
+---------------------13:55:48
+STEP 1 START
+-*-*-*-*-*-*-*-*-*
+
+---------------------13:55:48
+STEP 1
+-*-*-*-*-*-*-*-*-*
+
+---------------------13:55:48
+GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:37
+STEP 1 START
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:37
+STEP 1
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:37
+NOT GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:37
+POST DATA
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:37
+GET DATA
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:37
+STEP 1 START
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:37
+STEP 1
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:37
+NOT GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:37
+POST DATA
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:37
+GET DATA
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:37
+STEP 1 START
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:37
+STEP 1
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:37
+NOT GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:37
+POST DATA
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:37
+GET DATA
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:37
+STEP 1 START
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:37
+STEP 1
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:37
+NOT GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:37
+POST DATA
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:37
+GET DATA
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:37
+STEP 1 START
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:37
+STEP 1
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:37
+NOT GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:37
+POST DATA
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:37
+GET DATA
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:38
+STEP 1 START
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:38
+STEP 1
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:38
+NOT GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:38
+POST DATA
+-*-*-*-*-*-*-*-*-*
+
+---------------------14:00:38
+GET DATA
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:17:42
+STEP 1 START
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:17:42
+STEP 1
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:17:42
+GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:17:43
+STEP 1 START
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:17:43
+STEP 1
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:17:43
+GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:20:37
+STEP 1 START
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:20:37
+STEP 1
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:20:37
+GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:20:43
+STEP 1 START
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:20:43
+STEP 1
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:20:43
+GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:20:43
+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GET status 0
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:20:44
+"{\"shop\":{\"id\":69161943062,\"name\":\"app-security-02\",\"email\":\"ecosystem-security+pod21@shopify.com\",\"domain\":\"app-security-02.myshopify.com\",\"province\":null,\"country\":\"US\",\"address1\":null,\"zip\":null,\"city\":null,\"source\":null,\"phone\":null,\"latitude\":null,\"longitude\":null,\"primary_locale\":\"en\",\"address2\":null,\"created_at\":\"2023-05-31T10:09:56-04:00\",\"updated_at\":\"2023-06-27T10:06:53-04:00\",\"country_code\":\"US\",\"country_name\":\"United States\",\"currency\":\"USD\",\"customer_email\":\"ecosystem-security+pod21@shopify.com\",\"timezone\":\"(GMT-05:00) America\\\/Montreal\",\"iana_timezone\":\"America\\\/Montreal\",\"shop_owner\":\"Ecosystem Security\",\"money_format\":\"${{amount}}\",\"money_with_currency_format\":\"${{amount}} USD\",\"weight_unit\":\"lb\",\"province_code\":null,\"taxes_included\":false,\"auto_configure_tax_inclusivity\":null,\"tax_shipping\":null,\"county_taxes\":true,\"plan_display_name\":\"staff\",\"plan_name\":\"staff\",\"has_discounts\":true,\"has_gift_cards\":false,\"myshopify_domain\":\"app-security-02.myshopify.com\",\"google_apps_domain\":null,\"google_apps_login_enabled\":null,\"money_in_emails_format\":\"${{amount}}\",\"money_with_currency_in_emails_format\":\"${{amount}} USD\",\"eligible_for_payments\":true,\"requires_extra_payments_agreement\":false,\"password_enabled\":true,\"has_storefront\":true,\"finances\":true,\"primary_location_id\":74932092950,\"cookie_consent_level\":\"implicit\",\"visitor_tracking_consent_preference\":\"allow_all\",\"checkout_api_supported\":false,\"multi_location_enabled\":true,\"setup_required\":false,\"pre_launch_enabled\":false,\"enabled_presentment_currencies\":[\"USD\"]}}"shopuinfo
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:20:46
+null
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:20:47
+STEP 1 START
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:20:47
+STEP 1
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:20:47
+GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:25:46
+STEP 1 START
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:25:46
+STEP 1
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:25:46
+NOT GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:25:46
+POST DATA
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:25:46
+GET DATA
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:25:46
+STEP 1 START
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:25:46
+STEP 1
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:25:46
+NOT GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:25:46
+POST DATA
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:25:46
+GET DATA
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:25:46
+STEP 1 START
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:25:46
+STEP 1
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:25:47
+NOT GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:25:47
+POST DATA
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:25:47
+GET DATA
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:25:47
+STEP 1 START
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:25:47
+STEP 1
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:25:47
+NOT GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:25:47
+POST DATA
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:25:47
+GET DATA
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:25:47
+STEP 1 START
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:25:47
+STEP 1
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:25:47
+NOT GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:25:47
+POST DATA
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:25:47
+GET DATA
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:25:47
+STEP 1 START
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:25:47
+STEP 1
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:25:47
+NOT GET SHOP
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:25:47
+POST DATA
+-*-*-*-*-*-*-*-*-*
+
+---------------------17:25:47
+GET DATA
+-*-*-*-*-*-*-*-*-*
